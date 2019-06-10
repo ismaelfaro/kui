@@ -18,7 +18,7 @@ data.
 
 The fastest option is to install a prebuilt release.
 
-> sh -c "$(curl -fsSL https://raw.github.com//ismaelfaro/kui/tree/master/kui_install.sh)"
+> sh -c "$(curl -fsSL https://raw.githubusercontent.com/ismaelfaro/kui/master/kui_install.sh)"
 
 [Kui-MacOS.tar.bz2](https://macos-tarball.kui-shell.org) **|** [Kui-Linux.zip](https://linux-zip.kui-shell.org)
 
